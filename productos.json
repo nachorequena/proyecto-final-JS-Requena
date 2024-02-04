@@ -1,0 +1,10 @@
+[
+    { "id": 1, "nombre": "coca cola", "precio": 1300, "cantidad": 1, "img": "./img/coca.png" },
+    { "id": 2, "nombre": "seven up", "precio": 1300, "cantidad": 1, "img": "./img/seven.png" },
+    { "id": 3, "nombre": "hamburguesa", "precio": 1600, "cantidad": 1, "img": "./img/hamburguesa.png" },
+    { "id": 4, "nombre": "pizza", "precio": 1600, "cantidad": 1, "img": "./img/pizza.png" },
+    { "id": 5, "nombre": "pancho", "precio": 1600, "cantidad": 1, "img": "./img/pancho.png" },
+    { "id": 6, "nombre": "papas fritas", "precio": 1600, "cantidad": 1, "img": "./img/papas.avif" },
+    { "id": 7, "nombre": "sandwich", "precio": 1600, "cantidad": 1, "img": "./img/sandwich.png" },
+    { "id": 8, "nombre": "fanta", "precio": 1300, "cantidad": 1, "img": "./img/fanta.png" }
+]

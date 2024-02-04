@@ -1,0 +1,60 @@
+*{
+    text-align: center;
+}
+
+
+.encabezado{
+    background-color: yellow;
+    
+}
+
+.centrarNav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+
+/* CARRITO */
+#carrito{
+    margin: 10px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+
+img{
+    max-height: 150px;
+    object-fit: contain;
+}
+
+#total p{
+    color: red;
+}
+
+#total{
+    background-color: rgb(207, 248, 58);
+}
+
+
+
+
+/* BUSCADOR */
+.filtro{
+    display: none;
+}
+
+
+
+
+
+/* MODOS */
+
+.modoClaro{
+    background-color: #fafafa;
+}
+
+.modoOscuro{
+    background-color: rgb(78, 78, 253);
+}
